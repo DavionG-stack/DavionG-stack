@@ -12,7 +12,7 @@
 
 - 🎓 Studying Cybersecurity & Networking
 - 🖥️ Passionate about IT support, networking, and system troubleshooting
-- 🔧 I enjoy building tools that solve real world IT problems
+- 🔧 I enjoy building tools that solve real world problems
 - 🚀 Always learning, always improving
 
 ---
@@ -64,7 +64,7 @@ A real-time network monitoring tool built with Python + Flask that tracks device
 
 </div>
 
-### ⚡ “Learning by building. Growing through real-world IT problems.”
+### ⚡ “Learning by building. Growing through real world IT problems.”
 
 </div>
 
