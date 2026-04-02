@@ -2,7 +2,7 @@
 
 # 👋 Hey, I'm Davion
 
-### 💻 Cybersecurity & Networking Student | Tech Enthusiast
+### 💻 Cybersecurity & Networking | Tech Enthusiast
 
 </div>
 
