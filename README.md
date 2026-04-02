@@ -51,6 +51,18 @@ A real-time network monitoring tool built with Python + Flask that tracks device
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+
+![Stats](./profile/stats.svg)
+
+![Top Languages](./profile/top-langs.svg)
+
+</p>
+
+---
+
 </div>
 
 ### ⚡ “Learning by building. Growing through real-world IT problems.”
