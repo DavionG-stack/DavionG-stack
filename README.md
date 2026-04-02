@@ -1,16 +1,67 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**DavionG-stack/DavionG-stack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hey, I'm Davion
 
-Here are some ideas to get you started:
+### 💻 Cybersecurity & Networking Student | Tech Enthusiast
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+## 🧠 About Me
+
+- 🎓 Studying Cybersecurity & Networking
+- 🖥️ Passionate about IT support, networking, and system troubleshooting
+- 🔧 I enjoy building tools that solve real world IT problems
+- 🚀 Always learning, always improving
+
+---
+
+## 🛠️ Tech Stack
+
+**Operating Systems:**
+- Windows
+- Linux
+- macOS
+
+**Networking:**
+- TCP/IP
+- DNS
+- DHCP
+- Basic network troubleshooting
+
+**Tools & Languages:**
+- Python
+- PowerShell
+- Bash
+- Flask
+- Wireshark
+
+---
+
+## 📡 Featured Projects
+
+### 🔹 Network Monitoring Dashboard
+A real-time network monitoring tool built with Python + Flask that tracks device availability and displays status in a web dashboard.
+
+👉 Shows:
+- Live device monitoring
+- UP/DOWN status detection
+- Web-based IT dashboard UI
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DavionG-stack&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavionG-stack&layout=compact&theme=tokyonight)
+
+</div>
+
+### ⚡ “Learning by building. Growing through real-world IT problems.”
+
+</div>
+
