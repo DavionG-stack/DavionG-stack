@@ -55,9 +55,7 @@ A real-time network monitoring tool built with Python + Flask that tracks device
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DavionG-stack&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavionG-stack&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DavionG-stack&layout=compact)
 
 </div>
 
