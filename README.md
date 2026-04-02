@@ -55,8 +55,9 @@ A real-time network monitoring tool built with Python + Flask that tracks device
 
 <p align="center">
 
-![Stats](./profile/stats.svg)
-![Top Languages](./profile/top-langs.svg)
+<img src="./profile/stats.svg" />
+
+<img src="./profile/top-langs.svg" />
 
 </p>
 ---
